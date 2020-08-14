@@ -1,2 +1,2 @@
 # QR_GAME
-This is a game that launches this website to download the zip and the source code!
+This is the website that is launched from a Flowcode, Where you can download the zip and the source code!
